@@ -1,0 +1,63 @@
+[
+	{
+		"id":0,
+  		"title":"Google project",
+  		"shortDescription":"website",
+  		"dateCreated":"11/01/2024",
+  		"timeCreated":"10:20",
+  		"longDescription":"sdfgsdfsdfdsfd",
+  		"repeatTask":"none",
+  		"reminder":"15",
+  		"color":"FF4895F3",
+  		"isCompleted": false
+	},
+	{
+		"id":1,
+  		"title":"Google project 1",
+  		"shortDescription":"website",
+  		"dateCreated":"11/01/2024",
+  		"timeCreated":"10:20",
+  		"longDescription":"sdfgsdfsdfdsfd",
+  		"repeatTask":"none",
+  		"reminder":"15",
+  		"color":"FF4896F3",
+  		"isCompleted": true
+	},
+	{
+		"id":2,
+  		"title":"Google project 2",
+  		"shortDescription":"website",
+  		"dateCreated":"11/01/2024",
+  		"timeCreated":"10:20",
+  		"longDescription":"sdfgsdfsdfdsfd",
+  		"repeatTask":"none",
+  		"reminder":"15",
+  		"color":"FF5596F3",
+  		"isCompleted": true
+	},
+	{
+		"id":3,
+  		"title":"Google project 3",
+  		"shortDescription":"website",
+  		"dateCreated":"11/01/2024",
+  		"timeCreated":"10:20",
+  		"longDescription":"sdfgsdfsdfdsfd",
+  		"repeatTask":"none",
+  		"reminder":"15",
+  		"color":"FF2192F3",
+  		"isCompleted": false
+	},
+	{
+		"id":4,
+  		"title":"Google project 4",
+  		"shortDescription":"website",
+  		"dateCreated":"11/01/2024",
+  		"timeCreated":"10:20",
+  		"longDescription":"sdfgsdfsdfdsfd",
+  		"repeatTask":"none",
+  		"reminder":"15",
+  		"color":"FF2190F3",
+  		"isCompleted": false
+	}
+
+]
