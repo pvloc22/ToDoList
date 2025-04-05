@@ -1,4 +1,4 @@
-# 📱 ToDOList
+# 📱 ToDoList
 
 A cross-platform mobile application built using the **Flutter** framework. This project follows the **MVVM architecture** and implements the **BLOC Pattern** for efficient state management. It uses shared preferences for local storage and includes functionalities for data sharing and MCP protocol integration.
 
