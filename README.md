@@ -30,15 +30,3 @@ A cross-platform mobile application built using the **Flutter** framework. This 
 ## 🖥️ All Screens
 
 ![App Screenshots](https://github.com/bdung/to_do_list/assets/74477811/0959fed9-480d-40a2-bf6b-11b6a33b0b1a)
-
-
-## 📂 Project Structure
-
-```bash
-lib/
-├── models/             # JSON-based data models
-├── views/              # UI components and screens
-├── view_models/        # Business logic and BLoC components
-├── services/           # Data fetching, shared preferences, etc.
-├── utils/              # Helper functions and constants
-└── main.dart           # Application entry point
